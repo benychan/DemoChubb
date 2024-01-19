@@ -1,4 +1,4 @@
-﻿/*
+﻿
 create table Estados (
 Id int IDENTITY primary key, 
 Nombre varchar(100)
@@ -40,7 +40,7 @@ values ('Activo'),
 	   ('Baja'), 
 	   ('Licencia'), 
 	   ('Pensionado');
-	   */
+
 
 Insert into Empleados( 
 	fotografia , 
